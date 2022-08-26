@@ -1,0 +1,51 @@
+{
+    "workbench.colorTheme": "One Dark Pro Flat",
+    "todo-tree.general.revealBehaviour": "start of line",
+    "todo-tree.highlights.useColourScheme": true,
+    "workbench.iconTheme": "material-icon-theme",
+    "todo-tree.highlights.customHighlight": {
+        "TODO": {
+            "icon": "check",
+            "type": "line",
+            "background": "yellow",
+            "foreground": "black"
+        },
+        "FIXME": {
+            "foreground": "white",
+            "background": "red",
+            "iconColour": "yellow",
+            "gutterIcon": true
+        }
+    },
+    "editor.showFoldingControls": "always",
+    "editor.fontSize": 11,
+    "editor.lineHeight": 20,
+    "editor.cursorBlinking": "smooth",
+    "editor.cursorWidth": 2,
+    "editor.renderWhitespace": "all",
+    "editor.cursorSmoothCaretAnimation": true,
+    "workbench.editor.highlightModifiedTabs": true,
+    "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "[html]": {
+        "editor.defaultFormatter": "vscode.html-language-features"
+    },
+    "editor.formatOnSave": true,
+    "editor.cursorStyle": "line-thin",
+    "editor.rulers": [110],
+    "salesforcedx-vscode-soql.experimental.validateQueries": true,
+    "jupyter.askForKernelRestart": false,
+    "prettier.tabWidth": 4,
+    "security.workspace.trust.untrustedFiles": "open",
+    "window.zoomLevel": 2,
+    "inlineFold.supportedLanguages": [
+        "html",
+        "svelte",
+        "vue",
+        "javascript",
+        "typescript",
+        "javascriptreact",
+        "typescriptreact"
+    ],
+    "inlineFold.unfoldedOpacity": 0.4,
+    "redhat.telemetry.enabled": true
+}
